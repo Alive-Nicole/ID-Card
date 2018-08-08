@@ -1,0 +1,101 @@
+body {
+  background-color: #55A4C0;
+  font-family: 'Times New Roman', Times;
+  display: block;
+  text-align: center;
+  margin: 20px;
+  padding: 20px; 
+}
+
+h1 {
+  margin: 10px;
+}
+
+label {
+  font-weight: bolder;
+  font-size: 15px;
+}
+
+#firstName {
+  margin: 5px;
+  padding: 2px;
+  font-family: 'Times New Roman', Times;
+}
+
+#lastName {
+ margin: 5px;
+ padding: 2px;
+ font-family: 'Times New Roman', Times;
+}
+
+#age {
+ margin: 5px;
+ padding: 2px;
+ font-family: 'Times New Roman', Times;
+}
+
+#phoneNumber {
+ margin: 5px;
+ padding: 2px;
+ font-family: 'Times New Roman', Times;
+}
+
+#address {
+ margin: 5px;
+ padding: 2px;
+ font-family: 'Times New Roman', Times;
+}
+
+button {
+  margin-bottom: 70px;
+  border: none;
+  border-radius: 4px;
+}
+
+img {
+  width: 90px;
+  height: 90px;
+  float: left;
+}
+
+#idCard {
+  font-family: sans-serif, Arial, Helvetica;
+  background-color: #F5C8D7;
+  border: 5px solid black;
+  border-radius: 20px;
+  height: 14em;
+  width: 25em;
+  margin: auto;
+}
+
+#postFullName {
+  font-family: sans-serif, Arial, Helvetica;
+  padding-top: 1.5px;
+  padding-left: 1.2em;
+  font-size: 2em;
+}
+
+#postAge {
+  font-size: 1em;
+  font-family: sans-serif, Arial, Helvetica;
+  padding-bottom: 2.5px;
+  padding-left: 7px;
+  text-align: left;  
+} 
+
+#postPhoneNumber {
+  font-size: 1em;
+  font-family: sans-serif, Arial, Helvetica;
+  padding-bottom: 2.5px;
+  padding-left: 7px;
+  text-align: left;  
+}
+
+#postAddress {
+  font-size: 1em;
+  font-family: Arial, Helvetica;
+  padding-bottom: 2.5px;
+  padding-left: 7px;
+  text-align: left;
+}
+
