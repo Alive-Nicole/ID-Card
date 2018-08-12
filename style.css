@@ -16,34 +16,10 @@ label {
   font-size: 15px;
 }
 
-#firstName {
+#firstName, #lastName, #age, #phoneNumber, #address  {
   margin: 5px;
   padding: 2px;
   font-family: 'Times New Roman', Times;
-}
-
-#lastName {
- margin: 5px;
- padding: 2px;
- font-family: 'Times New Roman', Times;
-}
-
-#age {
- margin: 5px;
- padding: 2px;
- font-family: 'Times New Roman', Times;
-}
-
-#phoneNumber {
- margin: 5px;
- padding: 2px;
- font-family: 'Times New Roman', Times;
-}
-
-#address {
- margin: 5px;
- padding: 2px;
- font-family: 'Times New Roman', Times;
 }
 
 button {
@@ -75,23 +51,7 @@ img {
   font-size: 2em;
 }
 
-#postAge {
-  font-size: 1em;
-  font-family: sans-serif, Arial, Helvetica;
-  padding-bottom: 2.5px;
-  padding-left: 7px;
-  text-align: left;  
-} 
-
-#postPhoneNumber {
-  font-size: 1em;
-  font-family: sans-serif, Arial, Helvetica;
-  padding-bottom: 2.5px;
-  padding-left: 7px;
-  text-align: left;  
-}
-
-#postAddress {
+#postAge, #postAddress, #postPhoneNumber {
   font-size: 1em;
   font-family: Arial, Helvetica;
   padding-bottom: 2.5px;
